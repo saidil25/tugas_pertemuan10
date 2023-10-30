@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">tugas_pertemuan10</string>
+    <array name="judul">
+        <item>EXPEND4DABLES</item>
+        <item>THE BURIAL</item>
+        <item>MISSION IMPOSIBLE</item>
+        <item>JURIG </item>
+        <item>GHOOSEBUMP</item>
+        <item>JURIG SIEN</item>
+        <item>HIDEUNG</item>
+        <item>KADE AH</item>
+    </array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
